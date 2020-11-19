@@ -1,3 +1,3 @@
 # vSystem
 Online Voting System
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[Demo Video](https://github.com/prashantsingh2408/vSystem/blob/main/evoteDemo.mp4)
